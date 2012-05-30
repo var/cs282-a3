@@ -1,5 +1,4 @@
-
-# Assuming the user's pwd is A3-vimal-1000-111307
+# Assuming the user's pwd is A3-vimal-1000-111111
 if [ -d sampleA3/ ]
 then
 	printf "Copying all contents from the directory sampleA3..\n"
